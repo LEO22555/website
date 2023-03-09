@@ -49,3 +49,7 @@ div > p {
 input [type="text"] {
   background-color: pink;
 }
+
+input :focus{
+  background-color: navy;
+}
